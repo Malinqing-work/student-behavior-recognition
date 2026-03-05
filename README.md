@@ -1,5 +1,7 @@
 # Student-behavior-recognition
 
+<img width="1573" height="885" alt="Snipaste_2026-03-01_21-16-40" src="https://github.com/user-attachments/assets/73b188b3-73ca-4862-b0ce-74a4c6e59a39" />
+
 ## 如何使用
 - `python>=3.8`
 - `pip install ultralytics==8.1.0` or `git clone --branch v8.1.0 --single-branch https://github.com/ultralytics/ultralytics.git`
